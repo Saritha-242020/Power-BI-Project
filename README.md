@@ -1,1 +1,2 @@
-# Power-BI-Project
+# Power BI Project
+A complete portfolio of financial dataset.
